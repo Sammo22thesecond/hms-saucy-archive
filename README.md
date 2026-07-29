@@ -1,2 +1,2 @@
-# hms-saucy-archive
+# HMS Saucy Archive
 A personal historical archive dedicated to HMS Saucy
